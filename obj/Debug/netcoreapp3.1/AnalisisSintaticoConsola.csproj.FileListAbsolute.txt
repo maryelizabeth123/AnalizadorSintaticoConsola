@@ -1,0 +1,13 @@
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.csprojAssemblyReference.cache
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.AssemblyInfoInputs.cache
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.AssemblyInfo.cs
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.csproj.CoreCompileInputs.cache
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.exe
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.deps.json
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.runtimeconfig.json
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.runtimeconfig.dev.json
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.dll
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\bin\Debug\netcoreapp3.1\AnalisisSintaticoConsola.pdb
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.dll
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.pdb
+C:\Users\elipi\OneDrive\Documents\UTESA\Compiladores\Semana #5\AnalisisSintaticoConsola\obj\Debug\netcoreapp3.1\AnalisisSintaticoConsola.genruntimeconfig.cache
